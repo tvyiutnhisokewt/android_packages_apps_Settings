@@ -3070,6 +3070,8 @@
     <!-- Summary for Font size. Lets the user know that this will make text larger or smaller. Appears in the accessibility portion of setup wizard. [CHAR LIMIT=NONE] -->
     <string name="short_summary_font_size">Make text bigger or smaller</string>
 
+    <!-- Label for a numbered SIM card.  [CHAR LIMIT=40] -->
+    <string name="sim_card_number_title" translatable="false">SIM <xliff:g id="card_number">%1$d</xliff:g></string>
     <!-- SIM lock settings title  [CHAR LIMIT=40] -->
     <string name="sim_lock_settings">SIM lock settings</string>
     <!-- Security & screen lock settings screen, SIM lock setting option name  [CHAR LIMIT=40] -->
