@@ -8632,6 +8632,10 @@
     <!-- Configure notifications: value for swipe direction [CHAR LIMIT=100] -->
     <string name="swipe_direction_rtl">Swipe left to dismiss, right to show menu</string>
 
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">Swipe to screenshot</string>
+    <string name="swipe_to_screenshot_gesture_summary">Swipe three fingers to take screenshot</string>
+
     <!-- Notification settings: suppress status bar/ambient icons for silent notifications -->
     <string name="silent_notifications_status_bar">Hide silent notifications in status bar</string>
 
